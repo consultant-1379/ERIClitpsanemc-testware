@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="suite_order" parallel="false" preserve-order="true">
+    <suite-files>
+        <suite-file path="create_snapshots_suite.xml"></suite-file>
+        <suite-file path="list_snapshots_suite.xml"></suite-file>
+        <suite-file path="create_snapshots_sancli_suite.xml"></suite-file>
+        <suite-file path="restore_snapshots_suite.xml"></suite-file>
+        <suite-file path="delete_snapshots_suite.xml"></suite-file>
+    </suite-files>
+</suite>

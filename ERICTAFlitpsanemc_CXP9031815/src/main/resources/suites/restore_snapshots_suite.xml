@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="restore_snaps_suite">
+    <test name="restore_snapshots">
+        <classes>
+            	<class name="com.ericsson.nms.litp.taf.test_cases.TestRunner3" />
+        </classes>
+    </test>
+</suite>

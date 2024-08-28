@@ -1,0 +1,6 @@
+test_id
+infra_tst_p_sancli_create_snap
+infra_tst_p_sancli_create_second_snap
+infra_tst_n_sancli_create_duplicate_snap
+infra_tst_n_sancli_createsnap_lun_not_exist
+infra_tst_n_sancli_createsnap_lunname_err

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="create_snaps_sancli_suite">
+    <test name="create_snapshots_sancli">
+        <classes>
+            	<class name="com.ericsson.nms.litp.taf.test_cases.TestRunner5" />
+        </classes>
+    </test>
+
+</suite>

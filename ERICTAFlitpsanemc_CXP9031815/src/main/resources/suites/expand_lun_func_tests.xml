@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="expand_lun_functional_tests">
+    <test name="expand_lun_functional_tests">
+        <classes>
+            	<class name="com.ericsson.nms.litp.taf.test_cases.expand_lun_tc" />
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,11 @@
+[
+    {
+        "hostname": "ms1",
+        "ip": "0.0.0.0",
+        "type": "ms",
+        "users": [
+            {"username": "root", "password": "", "type": "admin"}
+        ],
+        "ports": {"ssh": 22}
+    }
+ ]

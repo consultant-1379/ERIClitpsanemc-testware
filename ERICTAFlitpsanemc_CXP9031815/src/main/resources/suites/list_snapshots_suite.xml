@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="list_snaps_suite">
+    <test name="list_snapshots">
+        <classes>
+            	<class name="com.ericsson.nms.litp.taf.test_cases.TestRunner1" />
+        </classes>
+    </test>
+
+</suite>
